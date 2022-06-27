@@ -6,5 +6,6 @@ public class first
         int a=0;
         int b=3;
         System.out.println(a+b);
+        System.out.println("oo jne jana dhunde tujhe deewana");
     }
 }
